@@ -1,2 +1,5 @@
 # MSay2-Calculator
-MSay2 Calculator (Coming soon)
+
+<img src="Calculator.png" width="300" >
+
+##### (Coming soon)
