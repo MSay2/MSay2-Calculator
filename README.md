@@ -4,6 +4,8 @@
 
 ###### (Coming soon)
 
+MSay2-Calculator resumes the same design as the Calculator application under Android Marshmallow
+
 # License
 
 ```
