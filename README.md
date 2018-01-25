@@ -1,6 +1,6 @@
 # MSay2-Calculator
 
-<img src="Calculator.png" width="300" align="right" hspace="20">
+<img src="Calculator.png" width="300">
 
 MSay2-Calculator resumes the same design as the Calculator application under Android Marshmallow
 
