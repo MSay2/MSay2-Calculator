@@ -27,7 +27,13 @@ Download the application [Calculator](https://raw.githubusercontent.com/MSay2/MS
 
 ##### Version
 
+###### 2.0
+* Bug fixes
+* Improvements made
+* Reduced of the application size
+
 ###### 1.0
+* Initialization
 
 # License
 
