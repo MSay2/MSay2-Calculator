@@ -2,7 +2,7 @@
 
 <img src="Calculator.png" width="300">
 
-MSay2-Calculator resumes the same design as the Calculator application under Android Marshmallow
+> MSay2-Calculator resumes the same design as the Calculator application under Android Marshmallow
 
 # Screenshots
 
@@ -23,7 +23,7 @@ Min API: Android Lollipop
 
 # Calculator
 
-Download the application [Calculator](https://raw.githubusercontent.com/MSay2/MSay2-Calculator/master/application/Calculator.apk)
+<a href="https://raw.githubusercontent.com/MSay2/MSay2-Calculator/master/application/Calculator.apk" > <img src="Screenshots/button_download.png" width="150" height="30"></a>
 
 ##### Version
 
