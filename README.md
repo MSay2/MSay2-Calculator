@@ -31,6 +31,7 @@ Min API: Android Lollipop
 * Bug fixes
 * Improvements made
 * Reduced of the application size
+`* APK file size 2.28 MB to 1.65 MB`
 
 ###### 1.0
 * Initialization
