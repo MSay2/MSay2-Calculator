@@ -23,7 +23,7 @@ Min API: Android Lollipop
 
 # Calculator
 
-<a href="https://raw.githubusercontent.com/MSay2/MSay2-Calculator/master/application/Calculator.apk" > <img src="Screenshots/button_download.png" width="150" height="30"></a>
+<a href="https://raw.githubusercontent.com/MSay2/MSay2-Calculator/master/application/Calculator.apk" > <img src="Screenshots/button_download.png" width="150" height="50"></a>
 
 ##### Version
 
